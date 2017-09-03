@@ -4,4 +4,4 @@ ASP.NET Core Web API Boilerplate
 
 Clone this repo using git clone https://github.com/Oposumi/Boilerplate.Api.git
 <br/>
-build solution
+Run Project
